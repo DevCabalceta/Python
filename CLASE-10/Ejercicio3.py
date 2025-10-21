@@ -22,3 +22,10 @@ for m in medias:
 print(f"Medias blancas: {mblancas} \n"
       f"Medias negras: {mnegras} \n"
       f"Medias azules: {mazules} \n")
+
+
+#Cuantos pares de cada media puede formar
+
+print(f"pares de medias blancas: {mblancas//2}")
+print(f"pares de medias negras: {mnegras//2}")
+print(f"pares de medias azules: {mazules//2}")
