@@ -8,8 +8,8 @@ class Persona:
         self.ciencias = ciencias
         self.sociales = sociales
 
-hoja3 = pd.read_excel("EjemploInformacion.xlsx", 
-                      sheet_name="Estudiantes 8vo",
+hoja3 = pd.read_excel(r"C:\Users\Gabriel Cabalceta\Documents\Python\CLASE-11\EjemploInformacion.xlsx", 
+                      sheet_name="Hoja4",
                       engine="openpyxl")
 
 
