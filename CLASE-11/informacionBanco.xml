@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<listaBancos>
+    <banco>
+        <nombre>Banco de Costa Rica</nombre>
+        <cantidadEmpleados>4000</cantidadEmpleados>
+    </banco>
+    <banco>
+        <nombre>BAC</nombre>
+        <cantidadEmpleados>1900</cantidadEmpleados>
+    </banco>
+    <banco>
+        <nombre>Popular</nombre>
+        <cantidadEmpleados>2500</cantidadEmpleados>
+    </banco>
+    <banco>
+        <nombre>Banco Nacional de Costa Rica</nombre>
+        <cantidadEmpleados>3000</cantidadEmpleados>
+    </banco>
+    <banco>
+        <nombre>Prpmerica</nombre>
+        <cantidadEmpleados>500</cantidadEmpleados>
+    </banco>
+</listaBancos>

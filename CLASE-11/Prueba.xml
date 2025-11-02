@@ -1,0 +1,19 @@
+<listaPersonas>
+    <persona>
+        <nombre>Gabriel</nombre>
+        <apellido>Cabalceta</apellido>
+        <edad>23</edad>
+    </persona>
+    <persona>
+        <nombre>Adolfo</nombre>
+        <apellido>Vargas</apellido>
+        <edad>33</edad>
+    </persona>
+    <persona>
+        <nombre>Sophia</nombre>
+        <apellido>Obando</apellido>
+        <edad>20</edad>
+    </persona>
+</listaPersonas>
+
+
