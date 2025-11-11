@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<listaPersonas>
+    <persona>
+        <nombre>Adolfo</nombre>
+        <edad>33</edad></persona>
+    <persona>
+        <nombre>Angie</nombre>
+        <edad>30</edad>
+    </persona>
+    <persona>
+        <nombre>Sophia</nombre>
+        <edad>1</edad>
+    </persona>
+</listaPersonas>

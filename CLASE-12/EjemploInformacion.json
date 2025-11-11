@@ -1,0 +1,25 @@
+{
+    "cursos":
+    [
+        {
+            "codigoCurso": "PythonAgo25",
+            "nombre": "Fundamentos de python",
+            "cantidadEstudiantes": 9 
+        },
+        {
+            "codigoCurso": "PowerBIEmpresaPatito",
+            "nombre": "Conocimiento avanzado power bi",
+            "cantidadEstudiantes": 12
+        },
+        {
+            "codigoCurso": "FrontendEnero25",
+            "nombre": "FrontendDeveloper",
+            "cantidadEstudiantes": 5
+        },
+        {
+            "codigoCurso": "SQLMayo25",
+            "nombre": "Conocimiento basicos de sql",
+            "cantidadEstudiantes": 10
+        }
+    ]
+}

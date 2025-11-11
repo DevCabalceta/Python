@@ -1,0 +1,22 @@
+<cursos>
+    <curso>
+        <codigoCurso>PythonAgo25</codigoCurso>
+        <nombre>Fundamentos de python</nombre>
+        <cantidadEstudiantes>9</cantidadEstudiantes>
+    </curso>
+    <curso>
+        <codigoCurso>PowerBIEmpresaPatito</codigoCurso>
+        <nombre>Conocimiento avanzado power bi</nombre>
+        <cantidadEstudiantes>12</cantidadEstudiantes>
+    </curso>
+    <curso>
+        <codigoCurso>FrontendEnero25</codigoCurso>
+        <nombre>FrontendDeveloper</nombre>
+        <cantidadEstudiantes>5</cantidadEstudiantes>
+    </curso>
+    <curso>
+        <codigoCurso>SQLMayo25</codigoCurso>
+        <nombre>Conocimiento basicos de sql</nombre>
+        <cantidadEstudiantes>10</cantidadEstudiantes>
+    </curso>
+</cursos>
