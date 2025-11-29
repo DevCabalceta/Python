@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<estudiantes>
+   <estudiante>
+      <idEstudiante>1</idEstudiante>
+      <nombre>Carlos Molina</nombre>
+      <edad>20</edad>
+      <correo>carlos@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>1</idCurso>
+            <nombre>Python Fundamentos</nombre>
+         </curso>
+         <curso>
+            <idCurso>2</idCurso>
+            <nombre>Front End Developer</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>2</idEstudiante>
+      <nombre>Ana García</nombre>
+      <edad>22</edad>
+      <correo>ana@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>3</idCurso>
+            <nombre>Ciberseguridad</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>3</idEstudiante>
+      <nombre>Luis Fernández</nombre>
+      <edad>19</edad>
+      <correo>luis@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>1</idCurso>
+            <nombre>Python Fundamentos</nombre>
+         </curso>
+         <curso>
+            <idCurso>3</idCurso>
+            <nombre>Ciberseguridad</nombre>
+         </curso>
+         <curso>
+            <idCurso>4</idCurso>
+            <nombre>SQL Server</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>4</idEstudiante>
+      <nombre>María López</nombre>
+      <edad>18</edad>
+      <correo>maria@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>2</idCurso>
+            <nombre>Front End Developer</nombre>
+         </curso>
+         <curso>
+            <idCurso>4</idCurso>
+            <nombre>SQL Server</nombre>
+         </curso>
+         <curso>
+            <idCurso>5</idCurso>
+            <nombre>Linux</nombre>
+         </curso>
+         <curso>
+            <idCurso>6</idCurso>
+            <nombre>Amazon Web Services</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>5</idEstudiante>
+      <nombre>David Sánchez</nombre>
+      <edad>21</edad>
+      <correo>david@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>5</idCurso>
+            <nombre>Linux</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>6</idEstudiante>
+      <nombre>Gabriel Cortés</nombre>
+      <edad>23</edad>
+      <correo>gabriel@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>6</idCurso>
+            <nombre>Amazon Web Services</nombre>
+         </curso>
+         <curso>
+            <idCurso>1</idCurso>
+            <nombre>Python Fundamentos</nombre>
+         </curso>
+         <curso>
+            <idCurso>2</idCurso>
+            <nombre>Front End Developer</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>7</idEstudiante>
+      <nombre>Daniela Vargas</nombre>
+      <edad>20</edad>
+      <correo>daniela@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>4</idCurso>
+            <nombre>SQL Server</nombre>
+         </curso>
+         <curso>
+            <idCurso>5</idCurso>
+            <nombre>Linux</nombre>
+         </curso>
+         <curso>
+            <idCurso>6</idCurso>
+            <nombre>Amazon Web Services</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>8</idEstudiante>
+      <nombre>Roberto Castro</nombre>
+      <edad>24</edad>
+      <correo>roberto@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>3</idCurso>
+            <nombre>Ciberseguridad</nombre>
+         </curso>
+         <curso>
+            <idCurso>4</idCurso>
+            <nombre>SQL Server</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>9</idEstudiante>
+      <nombre>Paula Jiménez</nombre>
+      <edad>19</edad>
+      <correo>paula@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>2</idCurso>
+            <nombre>Front End Developer</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+   <estudiante>
+      <idEstudiante>10</idEstudiante>
+      <nombre>Sofía Méndez</nombre>
+      <edad>22</edad>
+      <correo>sofia@vla.com</correo>
+      <cursos>
+         <curso>
+            <idCurso>1</idCurso>
+            <nombre>Python Fundamentos</nombre>
+         </curso>
+         <curso>
+            <idCurso>2</idCurso>
+            <nombre>Front End Developer</nombre>
+         </curso>
+         <curso>
+            <idCurso>3</idCurso>
+            <nombre>Ciberseguridad</nombre>
+         </curso>
+         <curso>
+            <idCurso>4</idCurso>
+            <nombre>SQL Server</nombre>
+         </curso>
+         <curso>
+            <idCurso>5</idCurso>
+            <nombre>Linux</nombre>
+         </curso>
+      </cursos>
+   </estudiante>
+</estudiantes>
